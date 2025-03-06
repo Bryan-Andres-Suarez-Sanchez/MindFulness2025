@@ -14,4 +14,8 @@
     <string name="fc4_self_massage">Masaje</string>
     <string name="fc5_overwhelmed">Preocupación</string>
     <string name="fc6_nightly_wind_down">Ritual para Dormir</string>
+    <string name="alignYourBody">Alínea tu cuerpo</string>
+    <string name="favorite_collections">Colecciones Favoritas</string>
+    <string name="bottom_navigation_home">Inicio</string>
+    <string name="bottom_navigation_profile">Perfil</string>
 </resources>
